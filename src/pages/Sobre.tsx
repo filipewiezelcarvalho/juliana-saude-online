@@ -162,8 +162,8 @@ const Sobre = () => {
                       <h3 className="font-poppins font-bold text-xl text-charcoal mb-2">
                         Graduação em Nutrição
                       </h3>
-                      <p className="text-charcoal/80 mb-2">Universidade Federal de São Paulo (UNIFESP)</p>
-                      <p className="text-sm text-charcoal/60">2016 - 2020</p>
+                      <p className="text-charcoal/80 mb-2">Universidade Federal do Rio de Janeiro - UFRJ</p>
+                      <p className="text-sm text-charcoal/60">2009 - 2013</p>
                     </div>
                   </div>
                 </div>
@@ -175,10 +175,10 @@ const Sobre = () => {
                     </div>
                     <div className="flex-1">
                       <h3 className="font-poppins font-bold text-xl text-charcoal mb-2">
-                        Especialização em Nutrição Funcional
+                        Especialização em Nutrição Clínica Funcional
                       </h3>
-                      <p className="text-charcoal/80 mb-2">Instituto de Pesquisas, Ensino e Gestão em Saúde</p>
-                      <p className="text-sm text-charcoal/60">2021 - 2022</p>
+                      <p className="text-charcoal/80 mb-2">Valéria Paschoal Consultoria Nutricional</p>
+                      <p className="text-sm text-charcoal/60">2014 - 2016</p>
                     </div>
                   </div>
                 </div>
@@ -190,10 +190,10 @@ const Sobre = () => {
                     </div>
                     <div className="flex-1">
                       <h3 className="font-poppins font-bold text-xl text-charcoal mb-2">
-                        Curso de Fitoterapia Aplicada à Nutrição
+                        Mestrado em Nutrição Humana
                       </h3>
-                      <p className="text-charcoal/80 mb-2">Instituto Brasileiro de Plantas Medicinais</p>
-                      <p className="text-sm text-charcoal/60">2023</p>
+                      <p className="text-charcoal/80 mb-2">Universidade Federal do Rio de Janeiro - UFRJ</p>
+                      <p className="text-sm text-charcoal/60">2016 - 2018</p>
                     </div>
                   </div>
                 </div>

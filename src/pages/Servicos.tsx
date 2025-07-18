@@ -10,7 +10,6 @@ const Servicos = () => {
       icon: <Heart className="text-primary" size={48} />,
       title: "Consulta Nutricional Presencial",
       description: "Atendimento personalizado no consultório com avaliação completa, plano alimentar e acompanhamento detalhado.",
-      price: "R$ 180",
       features: [
         "Avaliação antropométrica completa",
         "Análise de exames laboratoriais",
@@ -24,7 +23,6 @@ const Servicos = () => {
       icon: <Video className="text-primary" size={48} />,
       title: "Consulta Online",
       description: "Atendimento por videoconferência com toda comodidade da sua casa, mantendo a qualidade e personalização.",
-      price: "R$ 150",
       features: [
         "Consulta por videoconferência",
         "Plano alimentar digital",
@@ -38,7 +36,6 @@ const Servicos = () => {
       icon: <Users className="text-primary" size={48} />,
       title: "Acompanhamento Mensal",
       description: "Retornos mensais para ajustes no plano alimentar e monitoramento da evolução dos resultados.",
-      price: "R$ 120",
       features: [
         "Avaliação da evolução",
         "Ajustes no plano alimentar",
@@ -52,7 +49,7 @@ const Servicos = () => {
       icon: <Calculator className="text-primary" size={48} />,
       title: "Plano Alimentar Detalhado",
       description: "Elaboração de plano alimentar específico com cálculos nutricionais e substituições práticas.",
-      price: "R$ 80",
+
       features: [
         "Cálculo de macronutrientes",
         "Lista de substituições",
@@ -80,7 +77,6 @@ const Servicos = () => {
       icon: <Award className="text-primary" size={48} />,
       title: "Programa VIP",
       description: "Acompanhamento completo com consultas ilimitadas, suporte 24h e resultados garantidos.",
-      price: "R$ 800",
       features: [
         "Consultas ilimitadas",
         "Suporte 24h via WhatsApp",
